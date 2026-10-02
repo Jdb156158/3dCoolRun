@@ -1,0 +1,9 @@
+Light Machine Gun — KuraiWolf
+Source: https://opengameart.org/content/light-machine-gun
+Original file: https://opengameart.org/sites/default/files/lmg_fire01.mp3
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+lmg-fire.mp3 is the unmodified original download, renamed locally.
+In-game playback uses the attack portion, a fade-out envelope, slight pitch
+variation, and repeated playback to create automatic machine-gun fire.
